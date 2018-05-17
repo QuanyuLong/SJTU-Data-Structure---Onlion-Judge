@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521545001 source:e:\学习\大二下\data structure\my code\seqstack\main.cpp
+	<iostream>
+	"seqStack.h"
+
+1521544983 e:\学习\大二下\data structure\my code\seqstack\seqstack.h
+	<iostream>
+	"stack.h"
+
+1521545176 e:\学习\大二下\data structure\my code\seqstack\stack.h
+

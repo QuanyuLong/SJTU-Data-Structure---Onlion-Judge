@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1523545616 source:e:\学习\大二下\data structure\my code\binarytree\main.cpp
+	<iostream>
+	"binaryTree.h"
+
+1523546115 e:\学习\大二下\data structure\my code\binarytree\binarytree.h
+	<iostream>
+	"linkQueue.h"
+	"linkStack.h"
+
+1522243257 e:\学习\大二下\data structure\my code\binarytree\linkqueue.h
+	"Queue.h"
+	<iostream>
+
+1522235855 e:\学习\大二下\data structure\my code\binarytree\queue.h
+
+1521544983 e:\学习\大二下\data structure\my code\binarytree\seqstack.h
+	<iostream>
+	"stack.h"
+
+1521545176 e:\学习\大二下\data structure\my code\binarytree\stack.h
+
+1521550096 e:\学习\大二下\data structure\my code\binarytree\linkstack.h
+	"stack.h"
+	<iostream>
+

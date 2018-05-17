@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521776347 source:e:\学习\大二下\data structure\my code\onlion judge\1206\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

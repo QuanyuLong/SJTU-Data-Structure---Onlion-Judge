@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522243036 source:e:\学习\大二下\data structure\my code\linkqueue\main.cpp
+	<iostream>
+	"linkQueue.h"
+
+1522243257 e:\学习\大二下\data structure\my code\linkqueue\linkqueue.h
+	"Queue.h"
+	<iostream>
+
+1522235855 e:\学习\大二下\data structure\my code\linkqueue\queue.h
+

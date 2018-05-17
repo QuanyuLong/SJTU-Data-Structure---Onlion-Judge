@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1524753114 source:e:\学习\大二下\data structure\my code\priorityqueue\main.cpp
+	<iostream>
+	"priorityQueue.h"
+
+1524787838 e:\学习\大二下\data structure\my code\priorityqueue\priorityqueue.h
+	<iostream>
+

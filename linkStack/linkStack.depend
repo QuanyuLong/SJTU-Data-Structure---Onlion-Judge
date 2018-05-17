@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521550011 source:e:\学习\大二下\data structure\my code\linkstack\main.cpp
+	<iostream>
+	"linkStack.h"
+
+1521550096 e:\学习\大二下\data structure\my code\linkstack\linkstack.h
+	"stack.h"
+	<iostream>
+
+1521545176 e:\学习\大二下\data structure\my code\linkstack\stack.h
+
