@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1528212743 source:e:\学习\大二下\data structure\my code\adjlistgraph\main.cpp
+	<iostream>
+	"adjListGraph.h"
+
+1528361215 e:\学习\大二下\data structure\my code\adjlistgraph\adjlistgraph.h
+	"graph.h"
+	"linkQueue.h"
+	<iostream>
+
+1527495909 e:\学习\大二下\data structure\my code\adjlistgraph\graph.h
+
+1522243257 e:\学习\大二下\data structure\my code\adjlistgraph\linkqueue.h
+	"Queue.h"
+	<iostream>
+
+1522235855 e:\学习\大二下\data structure\my code\adjlistgraph\queue.h
+
